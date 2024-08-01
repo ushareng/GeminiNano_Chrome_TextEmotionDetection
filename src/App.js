@@ -4,7 +4,8 @@ import React, { useState } from 'react';
 
 async function doPrompt(prompt) {
   const session = await window.ai.createTextSession();
-  const result = await session.prompt("determine which emotion  best describes the sentence among ('Fear', 'Neutral', 'Surprise', 'Disgust', 'Desire', 'Affection', 'Happiness', 'Anger', 'Sadness', 'Optimism') ${prompt}. Answer in one word only");
+  const result = await session.prompt(`Detect emotion of the sentence - ${prompt}. Answer in one word only`);
+  
   console.log(result);
   return result;
 }
