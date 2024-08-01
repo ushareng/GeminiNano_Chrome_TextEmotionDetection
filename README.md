@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo Video
+
+[gemini_nano.webm](https://github.com/user-attachments/assets/067bbf33-19ce-4daa-b563-a17e2a371932)
+
 ## Available Scripts
 
 In the project directory, you can run:
