@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [gemini_nano.webm](https://github.com/user-attachments/assets/067bbf33-19ce-4daa-b563-a17e2a371932)
 
+## WorkFlow
+![nano](https://github.com/user-attachments/assets/41e157a0-e8c0-4725-96df-884924be7a6a)
 
 ## Get this
 
