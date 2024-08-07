@@ -1,4 +1,4 @@
-# Text Emotion Detection using Gemini Nano and React
+# Text Emotion Detection using Gemini Nano(Integration with Chrome ) and React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
