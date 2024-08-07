@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Text Emotion Detection using Gemini Nano and React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
