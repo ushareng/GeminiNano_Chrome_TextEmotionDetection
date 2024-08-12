@@ -1,5 +1,9 @@
 # Text Emotion Detection using Gemini Nano(Integration with Chrome ) and React
 
+Usecase :
+
+Difficulty understanding emotions in multiple modalities like Face , Speech and Text forms important markers in the diagnosis of Autism spectrum Disorder(ASD) . This Chrome extension aims to help autistic individuals identify emotions in Text using Gemini . 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo Video
